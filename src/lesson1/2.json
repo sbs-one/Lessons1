@@ -1,0 +1,99 @@
+{
+  "_": {
+    "postman_variable_scope": "environment",
+    "postman_exported_at": "2020-10-19T13:28:37.792Z",
+    "postman_exported_using": "Newman/5.2.0"
+  },
+  "id": "666dd6a8-21ce-4072-a3d2-723b6f73c8cf",
+  "name": "development",
+  "values": [
+    {
+      "type": "any",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTE5LCJpYXQiOjE1OTQyMTM2MTZ9.cZuojxYUCmyljFaQ1Oe7JPH8HplVoN57z5OndJ3ctbY",
+      "key": "authorization_token"
+    },
+    {
+      "type": "any",
+      "value": "https://5n-dev-api.flyways.ru",
+      "key": "host"
+    },
+    {
+      "type": "any",
+      "value": "5n-web",
+      "key": "salepoint"
+    },
+    {
+      "type": "any",
+      "value": "test-5n",
+      "key": "trafficsource"
+    },
+    {
+      "type": "any",
+      "value": "MOW",
+      "key": "departure_airport_code"
+    },
+    {
+      "type": "any",
+      "value": "ARH",
+      "key": "arrival_airport_code"
+    },
+    {
+      "type": "any",
+      "value": "2020-07-19",
+      "key": "departure_date"
+    },
+    {
+      "type": "any",
+      "value": "ROP2QX73WW13HM7MX3PYKZ-YZ2QVXNNM753DR41MWPNKM6XH0Z7W-L6FRC3C2CMC7",
+      "key": "result_id"
+    },
+    {
+      "type": "any",
+      "value": "7V2JP0EO92XLUX3EJKRK3O13I5J3J3Y4NE5PIYJ53W9NL378CEK93703W6V7C4R6VEP46601FV84N1EE1KR5D35W2G0-",
+      "key": "variant_id"
+    },
+    {
+      "type": "any",
+      "value": "XJ3P3G3Y4EYNAXRZVJ0OQX9WU4OZ7223O2OZ",
+      "key": "order_id"
+    },
+    {
+      "type": "any",
+      "value": "ZnkOW0Dgl5fjNVD8GrXYUWwAR9JW1qfOxqlDvO5",
+      "key": "passenger_id"
+    },
+    {
+      "type": "any",
+      "value": "AEX34mYX04Ilg",
+      "key": "segment_id"
+    },
+    {
+      "type": "any",
+      "value": "1XFC96",
+      "key": "pnr"
+    },
+    {
+      "type": "any",
+      "value": "Y1W37ZXLRWKN56VM42",
+      "key": "payment_id"
+    },
+    {
+      "type": "any",
+      "value": "7V2JP0EO92XLUX3EJKRK3O13I5J3J3Y4NE5PIYJ53W9NL378CEK93703W6V7C4R6VEP46601FV84N1EE1KR5D35W2G0",
+      "key": "flight_id"
+    },
+    {
+      "type": "any",
+      "value": "MOW",
+      "key": "departure"
+    },
+    {
+      "type": "any",
+      "value": "ARH",
+      "key": "arrival"
+    }
+  ],
+  "_postman_variable_scope": "environment",
+  "_postman_exported_at": "2020-10-19T17:03:10.186Z",
+  "_postman_exported_using": "Newman/5.2.0"
+}
